@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning the ins and outs of agronomy, and how to apply econometrics to measuring products we market to growers.
 
-- 💞️ I’m looking to collaborate on any projects around bayer that have to do with Grower preferences or categorizing our customer base! I have a good understanding of behavioral economics and would love to work on projects that measure what product features our existing consumers respond to.
+- 💞️ I’m looking to collaborate on any projects around bayer that have to do with Grower preferences or categorizing our customer base! I have a good understanding of behavioral economics and would love to work on projects that measure what product features our existing consumers respond to. I can work in python or R.
 
 - 📫 If you want to reach out- send me a message on teams, or send an email to connor.lennon <dot> ext <at> bayer <dot> com
 
